@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2019-09-20 183209</folder>
+	<filename>0112.jpg</filename>
+	<path>/home/angel/darknet/VOCdevkit/VOC2018/JPEGImages/2019-09-20 183209/0112.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>93</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>
